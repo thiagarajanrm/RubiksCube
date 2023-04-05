@@ -32,7 +32,7 @@ Steps to solve Rubik's cube
 #### Prerequsite
 First arrange white in one side. You just need to make sure that 3 white tiles are available in one side. Make sure that the 4th white tile is just below the corner where you have different color tile. Then apply the following algorithm
 
-## $R^1$, D, R, $D^1$
+## $R^1$,&nbsp;&nbsp;&nbsp;D,&nbsp;&nbsp;&nbsp;R,&nbsp;&nbsp;&nbsp;$D^1$
 
 #### Expectation
 
@@ -44,7 +44,7 @@ One side should be all white
 
 White facing up
 
-## $R^1$, D, R, $L^1$, $D^1$, L, $R^1$, D, R
+## $R^1$,&nbsp;&nbsp;&nbsp;D,&nbsp;&nbsp;&nbsp;R,&nbsp;&nbsp;&nbsp;$L^1$,&nbsp;&nbsp;&nbsp;$D^1$,&nbsp;&nbsp;&nbsp;L,&nbsp;&nbsp;&nbsp;$R^1$,&nbsp;&nbsp;&nbsp;D,&nbsp;&nbsp;&nbsp;R
 
 #### Expectation
 All white tiles on top and 2 matching tiles on first row (4 sides).
@@ -54,7 +54,7 @@ All white tiles on top and 2 matching tiles on first row (4 sides).
 #### Prerequsite
 White tiles at the bottom
 
-## R, U, $R^1$, U, R, Ux2, $R^1$
+## R,&nbsp;&nbsp;&nbsp;U,&nbsp;&nbsp;&nbsp;$R^1$,&nbsp;&nbsp;&nbsp;U,&nbsp;&nbsp;&nbsp;R,&nbsp;&nbsp;&nbsp;Ux2,&nbsp;&nbsp;&nbsp;$R^1$
 
 #### Expectation
 All bottom tiles should be Yellow and all top tile should be White and 2 matching tiles on first row (4 sides).
