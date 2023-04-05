@@ -54,7 +54,7 @@ All white tiles on top and 2 matching tiles on first row (4 sides).
 #### Prerequsite
 White tiles at the bottom
 
-## R,&nbsp;&nbsp;&nbsp;U,&nbsp;&nbsp;&nbsp;$R^1$,&nbsp;&nbsp;&nbsp;U,&nbsp;&nbsp;&nbsp;R,&nbsp;&nbsp;&nbsp;Ux2,&nbsp;&nbsp;&nbsp;$R^1$
+## R, &nbsp;&nbsp;&nbsp; U, &nbsp;&nbsp;&nbsp; $R^1$, &nbsp;&nbsp;&nbsp; U, &nbsp;&nbsp;&nbsp; R, &nbsp;&nbsp;&nbsp; Ux2, &nbsp;&nbsp;&nbsp; $R^1$
 
 #### Expectation
 All bottom tiles should be Yellow and all top tile should be White and 2 matching tiles on first row (4 sides).
