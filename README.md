@@ -64,3 +64,6 @@ All bottom tiles should be Yellow and all top tile should be White and 2 matchin
 Yellow side facing up
 Matching side should be away from you.
 ## $R^1$, F, $R^1$, $B^1$ x2, R, $F^1$, R, $B^1$x2, Rx2, $B^1$ x2
+
+#### Expectation
+All four side should be solved
