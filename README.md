@@ -44,7 +44,7 @@ One side should be all white
 
 White facing up
 
-## $R^1$,&nbsp;&nbsp;&nbsp;D,&nbsp;&nbsp;&nbsp;R,&nbsp;&nbsp;&nbsp;$L^1$,&nbsp;&nbsp;&nbsp;$D^1$,&nbsp;&nbsp;&nbsp;L,&nbsp;&nbsp;&nbsp;$R^1$,&nbsp;&nbsp;&nbsp;D,&nbsp;&nbsp;&nbsp;R
+## $R^1$, &nbsp;&nbsp;&nbsp; D,&nbsp;&nbsp;&nbsp; R, &nbsp;&nbsp;&nbsp;  $L^1$, &nbsp;&nbsp;&nbsp; $D^1$, &nbsp;&nbsp;&nbsp; L, &nbsp;&nbsp;&nbsp; $R^1$, &nbsp;&nbsp;&nbsp; D, &nbsp;&nbsp;&nbsp; R
 
 #### Expectation
 All white tiles on top and 2 matching tiles on first row (4 sides).
