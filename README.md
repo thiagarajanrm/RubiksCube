@@ -63,7 +63,7 @@ All bottom tiles should be Yellow and all top tile should be White and 2 matchin
 #### Prerequsite
 Yellow side facing up
 Matching side should be away from you.
-## R<sup>1</sup>,  F,  R<sup>1</sup>,  B<sup>1</sup>x2,  R,  F<sup>1</sup>,  R,  B<sup>1</sup>x2,  Rx2,  B<sup>1</sup>x<sub>2
+## R<sup>1</sup>,  F,  R<sup>1</sup>,  B<sup>1</sup>x2,  R,  F<sup>1</sup>,  R,  B<sup>1</sup>x2,  Rx2,  B<sup>1x</sup>2<sub>
 </sub>
 #### Expectation
 All four side should be solved
