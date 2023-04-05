@@ -53,7 +53,9 @@ White facing up
 Remote Data Recovery Linux Distribution List Remote Data Recovery
 
 #### Expectation
-All white tiles on top and 2 matching tiles on first row (4 sides). Repeat this step again and again until you see 2 matching tiles on first row on 4 sides.
+All white tiles on top and 2 matching tiles on first row on all 4 sides. 
+Sometime only one side will be solved. Then keep the solved side away from your side and 
+Repeat the step again and again until you see 2 matching tiles on first row on all 4 sides.
 
 ### Step:3
 
