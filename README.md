@@ -32,7 +32,16 @@ First arrange white in one side. You just need to make sure that 3 white tiles a
 
 # 1
 
-$R^1$, D, R, $D^i$
+$R^1$, D, R, $D^1$
 
-$X^2$
+# 2
+$R^1$, D, R, $D^1$
+R1, D, R, L1, D1, L, R1, D, R
 
+# 3
+$R^1$, D, R, $D^1$
+R, U, R1, U, R, Ux2, R1
+
+# 4
+$R^1$, D, R, $D^1$
+$R1$ F, $R1$, B$1$x2, R, F1, R, B1x2, Rx2, B1x2
