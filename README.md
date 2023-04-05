@@ -32,7 +32,7 @@ First arrange white in one side. You just need to make sure that 3 white tiles a
 
 # 1
 
-$R$^1$, D, R, $D^1$
+$R^1$, D, R, $D^1$
 
 # 2
 $R^1$, D, R, $L^1$, $D^1$, L, $R^1$, D, R
