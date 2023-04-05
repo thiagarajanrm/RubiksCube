@@ -34,6 +34,5 @@ First arrange white in one side. You just need to make sure that 3 white tiles a
 
 R^i^, D, R, D^I^
 
-X^2^
-
+$$X^2_{i,j}$$
 
