@@ -49,7 +49,7 @@ White facing up
 #### Expectation
 All white tiles on top and 2 matching tiles on first row (4 sides).
 
-### Step:2
+### Step:3
 
 #### Prerequsite
 White tiles at the bottom
@@ -59,8 +59,8 @@ White tiles at the bottom
 #### Expectation
 All bottom tiles should be Yellow and all top tile should be White and 2 matching tiles on first row (4 sides).
 
-### Step:2
+### Step:4
 #### Prerequsite
 Yellow side facing up
 Matching side should be away from you.
-## $R^1$, F, $R^1$, $B^1$x2, R, $F^1$, R, $B^1$x2, Rx2, $B^1$x2
+## $R^1$, F, $R^1$, $B^1$ x2, R, $F^1$, R, $B^1$x2, Rx2, $B^1$ x2
