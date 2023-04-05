@@ -32,7 +32,7 @@ First arrange white in one side. You just need to make sure that 3 white tiles a
 
 # 1
 
-$R^i$, D, R, $D^i$
+$R^1$, D, R, $D^i$
 
 $X^2$
 
