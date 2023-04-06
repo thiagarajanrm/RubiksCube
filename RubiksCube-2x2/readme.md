@@ -4,9 +4,9 @@ Steps to solve Rubik's cube
 | Sides | Name                                       | Image                                                    |
 | :----:| :---------------------------------------:  | :-------------------------------------------------------:|
 | L     | Left (or Left Clockwise)                   | ![Alt text](./images/left.png?raw=true "Left")           |
-| $L^1$ | Left Inverse (or Left Counter Clockwise)   | ![Alt text](./images/left.png?raw=true "Left Inverse")   |
-| R     | Right (or Right Clockwise)                 | ![Alt text](./images/right.png?raw=true "Right")         |
-| $R^1$ | Right Inverse (or Right Counter Clockwise) | ![Alt text](./images/right.png?raw=true "Right Inverse") |
+| $L^1$ | Left Inverse (or Left Counter Clockwise)   | ![Alt text](./images/right.png?raw=true "Right")         |
+| R     | Right (or Right Clockwise)                 | ![Alt text](./images/up.png?raw=true "Up")               |
+| $R^1$ | Right Inverse (or Right Counter Clockwise) | ![Alt text](./images/down.png?raw=true "Down")           |
 
 
 ### U  - Up Clockwise (or Up Regular)
