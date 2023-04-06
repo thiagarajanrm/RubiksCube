@@ -1,23 +1,23 @@
 # RubiksCube
 Steps to solve Rubik's cube
 
-### L  - Left Clockwise
+### L  - Left Clockwise (or Left Regular)
 ### L1 - Left Counter Clockwise (or Left Inverse)
 
-### R  - Right Clockwise
-### R1 - Right Counter Clockwise (or Right Inverse)
+### R  - Right Clockwise (or Right Regular)
+### $R^1$ - Right Counter Clockwise (or Right Inverse)
 
-### U  - Up Clockwise
-### U1 - Up Counter Clockwise (or Up Inverse)
+### U  - Up Clockwise (or Up Regular)
+### $U^1$ - Up Counter Clockwise (or Up Inverse)
 
-### D  - Down Clockwise
-### D1 - Down Counter Clockwise (or Down Inverse)
+### D  - Down Clockwise (or Down Regular)
+### $D^1$ - Down Counter Clockwise (or Down Inverse)
 
-### B  - Bottom Clockwise
-### B1 - Bottom Counter Clockwise (or Bottom Inverse)
+### B  - Bottom Clockwise (or Bottom Regular)
+### $B^1$ - Bottom Counter Clockwise (or Bottom Inverse)
 
-### F  - Front Clockwise
-### F1 - Front Counter Clockwise (or Front Inverse)
+### F  - Front Clockwise (or Front Regular)
+### $F^1$ - Front Counter Clockwise (or Front Inverse)
 
 ## Sides
 
