@@ -25,9 +25,7 @@ Steps to solve Rubik's cube
 ### Red -> Orange
 ### Green -> blue
 
-![alt text](https://github.com/thiagarajanrm/RubiksCube/blob/main/RubiksCube-2x2/images/final.png?raw=true)
-
-![Alt text](./images/final.png?raw=true "Title")
+![Alt text](./images/final.png?raw=true "Solved")
 
 ## Alogorithm
 
