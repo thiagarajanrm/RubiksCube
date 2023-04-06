@@ -19,6 +19,10 @@ Steps to solve Rubik's cube
 ### F  - Front Clockwise (or Front Regular)
 ### $F^1$ - Front Counter Clockwise (or Front Inverse)
 
+| Sides | #1    | #2    |
+| :---  | :---: | :---: |
+| Left  | 301   | 283   |
+
 ## Sides
 
 Solved puzzle should look like this
