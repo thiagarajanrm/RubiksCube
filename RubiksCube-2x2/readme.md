@@ -21,6 +21,8 @@ Steps to solve Rubik's cube
 
 ## Sides
 
+Solved puzzle should look like this
+
 ### White -> Yellow
 ### Red -> Orange
 ### Green -> blue
