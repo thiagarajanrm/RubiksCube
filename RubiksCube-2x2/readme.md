@@ -3,14 +3,17 @@ Steps to solve Rubik's cube
 
 | Sides | Name                                       | Image                                                    |
 | :----:| :---------------------------------------:  | :-------------------------------------------------------:|
-| L     | Left (or Left Clockwise)                   | ![Alt text](./images/left.png?raw=true "Left")           |
-| $L^1$ | Left Inverse (or Left Counter Clockwise)   | ![Alt text](./images/right.png?raw=true "Right")         |
-| R     | Right (or Right Clockwise)                 | ![Alt text](./images/up.png?raw=true "Up")               |
+| L   $L^1$  | Left (or Left Clockwise)  Left Inverse (or Left Counter Clockwise)    | ![Alt text](./images/left.png?raw=true "Left")           |
+| R   $R^1$  | Right (or Right Clockwise) Right Inverse (or Right Counter Clockwise) | ![Alt text](./images/right.png?raw=true "Right")         |
+| U   $U^1$  | Up (or Up Clockwise) Up Inverse (or Up Counter Clockwise)             | ![Alt text](./images/up.png?raw=true "Up")               |
+| D   $D^1$  | Down (or Down Clockwise) Down Inverse (or Down Counter Clockwise)     | ![Alt text](./images/down.png?raw=true "Down")           |
+| $L^1$ | Left Inverse (or Left Counter Clockwise)   | ![Alt text](./images/front.png?raw=true "Front")         |
+| R     | Right (or Right Clockwise)                 | ![Alt text](./images/back.png?raw=true "Back")           |
 | $R^1$ | Right Inverse (or Right Counter Clockwise) | ![Alt text](./images/down.png?raw=true "Down")           |
 
 
-### U  - Up Clockwise (or Up Regular)
-### $U^1$ - Up Counter Clockwise (or Up Inverse)
+###   -  Clockwise (or Up Regular)
+###  - Up Counter Clockwise (or Up Inverse)
 
 ### D  - Down Clockwise (or Down Regular)
 ### $D^1$ - Down Counter Clockwise (or Down Inverse)
