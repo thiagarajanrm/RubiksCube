@@ -42,7 +42,7 @@ One side should be all white
 
 White facing up
 
-## $R^1$, &nbsp;&nbsp;&nbsp; D,&nbsp;&nbsp;&nbsp; R, &nbsp;&nbsp;&nbsp;  $L^1$, &nbsp;&nbsp;&nbsp; $D^1$, &nbsp;&nbsp;&nbsp; L, &nbsp;&nbsp;&nbsp; $R^1$, &nbsp;&nbsp;&nbsp; D, &nbsp;&nbsp;&nbsp; R
+## $R^1$, &nbsp;&nbsp;&nbsp; D,&nbsp;&nbsp;&nbsp; R, &nbsp;&nbsp;&nbsp;  L, &nbsp;&nbsp;&nbsp; $D^1$, &nbsp;&nbsp;&nbsp; $L^1$, &nbsp;&nbsp;&nbsp; $R^1$, &nbsp;&nbsp;&nbsp; D, &nbsp;&nbsp;&nbsp; R
 
 ### Shortcut
 Remote Data Recovery Linux Distribution List Remote Data Recovery
