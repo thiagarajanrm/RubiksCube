@@ -1,8 +1,8 @@
 # RubiksCube
 Steps to solve Rubik's cube
 
-### L  - Left Clockwise (or Left Regular)
-### L1 - Left Counter Clockwise (or Left Inverse)
+### L  - Left Regular (or Left Clockwise)
+### $L^1$ - Left Inverse (or Left Counter Clockwise)
 
 ### R  - Right Clockwise (or Right Regular)
 ### $R^1$ - Right Counter Clockwise (or Right Inverse)
