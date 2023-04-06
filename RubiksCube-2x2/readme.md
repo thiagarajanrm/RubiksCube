@@ -1,13 +1,13 @@
 # RubiksCube
 Steps to solve Rubik's cube
 
-| Sides     | Name                                      | Image    |
-| :----:    | :---------------------------------------: | :-------:|
-| ### L     | Left (or Left Clockwise)                  | image1   |
-| ### $L^1$ | Left Inverse (or Left Counter Clockwise)  | image2   |
+| Sides | Name                                       | Image                                                    |
+| :----:| :---------------------------------------:  | :-------------------------------------------------------:|
+| L     | Left (or Left Clockwise)                   | ![Alt text](./images/left.png?raw=true "Left")           |
+| $L^1$ | Left Inverse (or Left Counter Clockwise)   | ![Alt text](./images/left.png?raw=true "Left Inverse")   |
+| R     | Right (or Right Clockwise)                 | ![Alt text](./images/right.png?raw=true "Right")         |
+| $R^1$ | Right Inverse (or Right Counter Clockwise) | ![Alt text](./images/right.png?raw=true "Right Inverse") |
 
-### R  - Right (or Right Clockwise)
-### $R^1$ - Right Inverse (or Right Counter Clockwise)
 
 ### U  - Up Clockwise (or Up Regular)
 ### $U^1$ - Up Counter Clockwise (or Up Inverse)
